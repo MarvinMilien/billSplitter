@@ -91,4 +91,12 @@
         android:padding="@dimen/textview_padding"
         android:textAppearance="@android:style/TextAppearance.Medium" />
 
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_row="5"
+        android:layout_column="1"
+        android:text="Button" />
+
 </GridLayout>
